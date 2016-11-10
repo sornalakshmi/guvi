@@ -18,6 +18,6 @@ class IndexMatchNumber
 			}
 		}
 		if(flag==0)
-			System.out.println("No Match Found");
+			System.out.println("0");
           }
 }
